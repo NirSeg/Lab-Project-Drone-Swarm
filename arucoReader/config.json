@@ -1,0 +1,7 @@
+{
+  "yamlCalibrationPath" : "/home/rbdpi4/arucoReader/cameraConfigs/cameraConfig2.yaml",
+  "isCameraString": false,
+  "cameraPort": 0,
+  "cameraString": "",
+  "currentMarkerSize" : 0.2
+}
